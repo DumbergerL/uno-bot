@@ -1,5 +1,5 @@
 {
-  "name": "uno-bot",
+  "name": "uno-server",
   "version": "1.0.0",
   "description": "HTTP Schnittstelle für ein UNO Spiel",
   "main": "server.js",
